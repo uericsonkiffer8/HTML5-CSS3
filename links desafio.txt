@@ -1,0 +1,68 @@
+
+
+		HTML
+
+PRIMEIRO VÍDEO
+https://youtu.be/epDCjksKMok?si=8DShRa2XUt-KqkUv
+
+INCORPORAR:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epDCjksKMok?si=dLH1mDgKgN0Tf1Zp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+		
+		JAVASCRIPT
+
+PRIMEIRO VÍDEO:
+https://youtu.be/1-w1RfGIov4?si=k4XgLFD2QSGFyToH
+
+PLAYLIST
+https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&pp=iAQB
+
+INCORPORAR:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-w1RfGIov4?si=N59-RV-SixZ4o7dx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+		HARDWARE
+
+PRIMEIRO VÍDEO:
+https://youtu.be/iT6E92Kt38o?si=YjPkI0itEFnM3eM1
+
+PLAYLIST:
+https://www.youtube.com/watch?v=iT6E92Kt38o&list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW&pp=iAQB
+
+INCORPORAR:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iT6E92Kt38o?si=YjPkI0itEFnM3eM1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		
+		PYTHON
+
+PRIMEIRO VÍDEO:
+https://youtu.be/nIHq1MtJaKs?si=vnTTsehigJ2pqrL9
+
+PLAYLIST:
+https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&pp=iAQB
+
+INCORPORAR:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nIHq1MtJaKs?si=vnTTsehigJ2pqrL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
+================== CÓDIGO FEITO SEGUNDA VEZ =================
+
+    <a href="https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&pp=iAQB" target="_blank" rel="external">
+        <img src="imagens/thumb-html.png"
+        width="400px" height="215">
+    </a>
+    <a href="https://youtu.be/1-w1RfGIov4?si=k4XgLFD2QSGFyToH" target="_blank" rel="external">
+        <img src="imagens/thumb-js.png"
+        width="400px" height="215">
+    </a>
+    <a href="https://youtu.be/iT6E92Kt38o?si=YjPkI0itEFnM3eM1" target="_blank" rel="external">
+        <img src="imagens/thumb-hardware.png"
+        width="400px" height="215">
+    </a>
+    <a href="https://youtu.be/nIHq1MtJaKs?si=vnTTsehigJ2pqrL9" target="_blank" rel="external">
+        <img src="imagens/thumb-python.png"
+        width="400px" height="215">
+            
+    </a>
