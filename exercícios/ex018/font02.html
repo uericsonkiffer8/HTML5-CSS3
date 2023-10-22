@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes Externas</title>
+    <style>
+        @font-face {
+            font-family: 'LarryLove';
+            src: url(fonts/love\ larry\ ttf.ttf) format('opentype'), url(fonts/love\ story\ ttf.ttf) format('opentype');
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        @font-face {
+            font-family: 'StoryLove';
+            src: url(fonts/love\ story\ ttf.ttf) format('opentype');
+            font-weight: normal;
+            font-style: normal;
+        }
+        /*  Tipos de format()
+            opentype (otf)
+            truetype (ttf)
+            embedded-opentype
+            truetype-att (Apple Advanced Typography)
+            svg
+                */
+
+        *
+        {
+        
+        padding: 10px;
+        margin: auto;
+        background-attachment: fixed;
+        text-align: center;
+
+        }
+        
+        body{   
+            font-family: Arial, Helvetica, sans-serif;
+           /*: rgb(255, 181, 173);*/
+           background-image: linear-gradient(rgb(255, 181, 173), red);
+            text-align: justify;
+                      
+        }
+
+        h1{ 
+            font-family:'LarryLove', 'Times New Roman', Times, serif;
+            font-size: 3em;
+            font-weight: normal;
+            color: red;
+            text-align: center;
+    
+        }
+
+        h2{
+            font-family:'StoryLove', 'Times New Roman', Times, serif;
+            font-size: 3em;
+            text-align: right;
+            font-weight: normal;
+            font-style: italic;
+            color: rgba(161, 0, 0, 0.863);
+            
+
+        }
+        p{  
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            color: rgb(255, 255, 255);
+           
+        }
+    </style>
+</head>
+<body>
+    <h1>Módulo 02 HTML e CSS </h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem libero eligendi doloremque laboriosam repellat, nemo vero eaque voluptates similique. Aspernatur voluptatum sit vitae fugit exercitationem, nisi doloremque consequatur numquam voluptas?</p>
+    <h2>Capítulo 14 Aula 07</h2>/
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo repellat harum perspiciatis adipisci sapiente, eaque accusantium praesentium, sequi suscipit quos porro quia. Autem recusandae voluptatem eius laborum laboriosam adipisci illo?</p>
+    <h2>Fontes Externas Personalizadas</h2>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto expedita ad tenetur suscipit dicta! Repudiandae similique nobis voluptatibus officiis consequuntur tenetur, rem animi necessitatibus possimus deserunt in sapiente libero incidunt!</p>
+</body>
+</html>
