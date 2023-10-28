@@ -61,15 +61,15 @@
     <table>
         <caption>Desafio 14 Tabela</caption>
         <thead>
-            <th>Área</th>
-            <th>Disciplinas</th>
-            <th colspan="2">Notas</th>
-           <th>Média</th>
+            <th scope="col">Área</th>
+            <th scope="col">Disciplinas</th>
+            <th scope="colgroup" colspan="2">Notas</th>
+           <th scope="col">Média</th>
 
         </thead>
         <tbody>
             <tr>
-                <th rowspan="4">Exatas</th>
+                <th scope="rowgroup" rowspan="4">Exatas</th>
                 <td>Matemática</td>
                 <td class="num">0.0</td>
                 <td class="num">0.0</td>
@@ -95,10 +95,10 @@
             </tr>
             <tr>
                 <th colspan="4" class="media">Média Exatas</th>
-                <td class="num" style="background-color: #383838; color: white;">0.0</td>
+                <td scope="row" class="num" style="background-color: #383838; color: white;">0.0</td>
             </tr>
             <tr>
-                <th rowspan="2">Humanas</th>
+                <th scope="rowgroup" rowspan="2">Humanas</th>
                 <td>História</td>
                 <td class="num">0.0</td>
                 <td class="num">0.0</td>
@@ -111,7 +111,7 @@
                 <td class="num">0.0</td>
             </tr>
             <tr>
-                <th colspan="4" class="media">Média Humanas</th>
+                <th scope="row" colspan="4" class="media">Média Humanas</th>
                 <td class="num" style="background-color: #383838; color: white;">0.0</td>
             </tr>
 
